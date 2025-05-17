@@ -1,1 +1,14 @@
-create the first file of the github
+#!/bin/bash
+x="a+b"
+echo "The value of x = $x"
+
+
+
+
+#!/bin/bash
+a=5
+b=3
+c=6
+x=$((a + b  + c))
+echo "The value of x = $x"
+
